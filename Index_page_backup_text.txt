@@ -1,0 +1,13 @@
+page.services text: 6-reduced to 3
+  - title: Photography
+    icon: fa fa-heart-o
+    desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus.
+    bg: /assets/images/@stock/service-item-4-bg.jpg
+  - title: Marketing
+    icon: fa fa-flag-o
+    desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus.
+    bg: /assets/images/@stock/service-item-5-bg.jpg
+  - title: Support
+    icon: fa fa-comment-o
+    desc: Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus.
+    bg: /assets/images/@stock/service-item-6-bg.jpg
